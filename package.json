@@ -1,0 +1,24 @@
+{
+  "name": "nemesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim-dev-2023/nemesis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karim-dev-2023/nemesis/issues"
+  },
+  "homepage": "https://github.com/karim-dev-2023/nemesis#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
